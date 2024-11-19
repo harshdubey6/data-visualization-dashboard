@@ -11,9 +11,6 @@ A Flask-based web application for visualizing data stored in MongoDB. This dashb
   
 ---
 
-## 🖥️ Demo
-
-[https://drive.google.com/file/d/1dBG5F740Dcdwr2EOYOdWQGiNp-_xkkOQ/view?usp=sharing]
 
 ---
 
@@ -156,19 +153,6 @@ Contributions are welcome! Feel free to submit a pull request or open an issue.
 5. Create a pull request.
 
 ---
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 💬 Contact
-
-For any questions, feel free to contact:
-
-- **Email:** [nikhildubey183@gmail.com](mailto:nikhildubey183@gmail.com)
-- **GitHub:** [https://github.com/NIKHIL-58](https://github.com/NIKHIL-58)
 
 ---
 
